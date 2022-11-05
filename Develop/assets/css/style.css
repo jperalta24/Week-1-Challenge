@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
 }
 
 body {
@@ -33,13 +34,14 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+/* .header nav ul { 
     list-style-type: none;
-}
-
+}*/
+ /* consolidated nav ul li */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
@@ -47,7 +49,7 @@ a {
     text-decoration: none;
 }
 
-p {
+p { 
     font-size: 16px;
 }
 
