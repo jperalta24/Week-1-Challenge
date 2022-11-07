@@ -10,11 +10,10 @@ N/A
 
 ## Usage
 
-Easily navigate through the webpage using the navigation links at the top right of the webpage. 
-![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/Develop/assets/images/Horiseon.jpg)
-![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/Develop/assets/images/Horiseon2.jpg)
+Easily navigate through the webpage using the navigation links at the top right of the [webpage](https://jperalta24.github.io/Week-1-Challenge/) 
+![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/assets/images/Horiseon.jpg)
+![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/assets/images/Horiseon2.jpg)
 
-[Depolyed Webpage](https://jperalta24.github.io/Week-1-Challenge/)
 
 ##Credits 
 
