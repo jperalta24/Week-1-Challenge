@@ -14,7 +14,7 @@ Easily navigate through the webpage using the navigation links at the top right 
 ![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/Develop/assets/images/Horiseon.jpg)
 ![Horiseon webpage](https://github.com/jperalta24/Week-1-Challenge/blob/main/Develop/assets/images/Horiseon2.jpg)
 
-[Depolyed Webpage]
+[Depolyed Webpage](https://jperalta24.github.io/Week-1-Challenge/)
 
 ##Credits 
 
