@@ -1,6 +1,6 @@
 # Week-1-Challenge
 
-##Description 
+## Description 
 
 My goal for this assignment was to refactor the existing code to make the website more accesible. The source code contains alt attributes for images and semantic elements that follow a logical structure.
 
